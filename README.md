@@ -14,3 +14,5 @@ BRIGHT OBJECT NEEDS TO BE WHITE WHEN CALIBRATED)
 TO CHANGE THE DESIGNATED SPACE SIZE, PRESS DE LEFT AND RIGHT KEY (the rectangle on screen will change size, your hand will be captured only when moved inside this rectangle)
 
 ((If you dont have a white glove to play, you can use another white object like a tissue or your cellphone screen))
+
+Work done for INFORMATICA II, Artes Multimediales UNA
